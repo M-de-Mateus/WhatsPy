@@ -16,7 +16,7 @@ Toda mensagem começa com um "Oi {Nome da Pessoa}", o que personaliza a mensagem
 **Apesar de ser um script simples, ele é bem eficente em enviar mensagens, logo o número de pessoas que você pode alcançar é muito grande.
 Paradoxalmente, o Whatsapp não gosta de automações em sua plataforma, então é bom evitar de enviar mensagem para uma quantidade massiva de pessoas.**
 
-**O código funciona em um ritmo lento propositalmente, ele é feito para imitar o comportamento humano de envio de mensagens e com isso passar desapercebido pelo algoritmo do Whatsapp.**
+**O código funciona em um ritmo lento propositalmente, ele é feito para imitar o comportamento humano de envio de mensagens e com isso passar despercebido pelo algoritmo do Whatsapp.**
 
 ## Sobre o Código e instruções adicionais
 
