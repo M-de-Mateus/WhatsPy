@@ -45,13 +45,13 @@ Esse é o executável que estará dentro da pasta:
 Antes de iniciar, verifique sua versão do Chrome, esse código foi feito na versão 101.0.4951.67 so Chrome (Leve em consideração o 101.0 somente).
 Caso seu Chrome seja de uma versão inferior ou superior, você deve substituir o seguinte arquivo com um compativel com a sua versão do navegador:
 
-![image](https://user-images.githubusercontent.com/65752974/170585527-dc2791c5-0e2b-477c-8bc1-731ec27e7b5a.png)
+![image](https://user-images.githubusercontent.com/65752974/170586645-9c12c304-1975-45bb-a9fa-fe8bb5230064.png)
 
 Você pode encontrar esse arquivo para download no site oficial do [Chrome](https://chromedriver.chromium.org/downloads)
 
 A planilha de envio também está dentro da pasta, recomendo que crie um atalho para ela e para o executavel do programa na área de trabalho: 
 
-![image](https://user-images.githubusercontent.com/65752974/170586014-a839ee0a-faea-4e9c-8d9a-a4dec437ffd1.png)
+![image](https://user-images.githubusercontent.com/65752974/170586681-9b12ae09-463e-454f-b3c8-72b46274c0f7.png)
 
 Use com moderação!
 
