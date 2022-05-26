@@ -34,7 +34,7 @@ Ao percorrer a planilha preenchida ele substitui os valores {numero} e {texto}, 
 
 Toda vez que o código é iniciado você deverá ler o qrcode do whatsapp, uma vez que ele sempre rodará em guia anônima.
 
-Disponibilizei o arquivo WhatsPy.zip para o download, com ele você poderá rodar o código sem ter python em seu computador.
+Disponibilizei o arquivo [WhatsPy.zip](WhatsPy.zip) para o download, com ele você poderá rodar o código sem ter python em seu computador.
 
 Esse é o executável que estará dentro da pasta: 
 
