@@ -20,6 +20,8 @@ Paradoxalmente, o Whatsapp não gosta de automações em sua plataforma, então 
 
 ## Sobre o Código e instruções adicionais
 
+Essa automação é desenvolvida completamente em python!
+
 Usei bibliotecas como `pandas`, `selenium`, `urllib` e `time`. O código foi desenvolvido no `Jupyter Notebook`. 
 
 O que ele faz basicamente é modificar aquela URL que é criada pelo whatsapp para o envio de mensagens:
