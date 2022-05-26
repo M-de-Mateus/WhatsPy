@@ -46,3 +46,10 @@ Caso seu Chrome seja de uma versão inferior ou superior, você deve substituir 
 ![image](https://user-images.githubusercontent.com/65752974/170585527-dc2791c5-0e2b-477c-8bc1-731ec27e7b5a.png)
 
 Você pode encontrar esse arquivo para download no site oficial do [Chrome](https://chromedriver.chromium.org/downloads)
+
+A planilha de envio também está dentro da pasta, recomendo que crie um atalho para ela e para o executavel do programa na área de trabalho: 
+
+![image](https://user-images.githubusercontent.com/65752974/170586014-a839ee0a-faea-4e9c-8d9a-a4dec437ffd1.png)
+
+Use com moderação!
+
