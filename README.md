@@ -40,7 +40,7 @@ Disponibilizei o arquivo [WhatsPy.zip](WhatsPy.zip) para o download, com ele voc
 
 Esse é o executável que estará dentro da pasta: 
 
-![image](https://user-images.githubusercontent.com/65752974/170585231-921ec9ed-ebca-49ba-872c-2d1b76f2d2fa.png)
+![image](https://user-images.githubusercontent.com/65752974/170586556-4c5bb604-ee73-4734-b750-a39e8e3da2b0.png)
 
 Antes de iniciar, verifique sua versão do Chrome, esse código foi feito na versão 101.0.4951.67 so Chrome (Leve em consideração o 101.0 somente).
 Caso seu Chrome seja de uma versão inferior ou superior, você deve substituir o seguinte arquivo com um compativel com a sua versão do navegador:
